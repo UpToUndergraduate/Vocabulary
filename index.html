@@ -402,13 +402,43 @@ var ICON={
   speak:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H3v6h3l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>',
   mag:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>'
 };
+/* 离线音频：词条在 VOCAB_DATA 中的序号 == audio/NNNN.mp3，开局已裁静音，点播即出声 */
+var _audioEl=null, _audioWarm={};
+function audioIndex(w){
+  var d=window.VOCAB_DATA||[];
+  for(var i=0;i<d.length;i++)if(d[i][0]===w)return i+1;
+  return 0;
+}
 function speak(w){
+  /* 打断上一次播放，保证每次点击都从头清晰出声 */
+  try{if(window.speechSynthesis)window.speechSynthesis.cancel()}catch(e){}
+  if(_audioEl){try{_audioEl.pause()}catch(e){}_audioEl.currentTime=0}
+  var idx=audioIndex(w);
+  if(idx){
+    var src='audio/'+String(idx).padStart(4,'0')+'.mp3';
+    try{
+      if(!_audioEl){_audioEl=new Audio();_audioEl.preload='auto'}
+      if(_audioEl.dataset.src!==src){_audioEl.src=src;_audioEl.dataset.src=src}
+      _audioEl.currentTime=0;
+      var p=_audioEl.play();
+      if(p&&p.catch)p.catch(function(){fallbackSpeak(w)}); /* 本地文件缺失时兜底 */
+      return;
+    }catch(e){}
+  }
+  fallbackSpeak(w);
+}
+function fallbackSpeak(w){
   try{
     if(!window.speechSynthesis)return;
     var u=new SpeechSynthesisUtterance(w.replace(/\/.*$/,''));
     u.lang='en-US';u.rate=.88;
     window.speechSynthesis.cancel();window.speechSynthesis.speak(u);
   }catch(e){}
+}
+/* 首次交互后预热 Audio 元素，避免第一次点播有实例化延迟 */
+function warmAudio(){
+  if(_audioEl)return;
+  try{_audioEl=new Audio();_audioEl.preload='auto'}catch(e){}
 }
 function applyTheme(){
   document.documentElement.setAttribute('data-theme',S.theme);
@@ -437,6 +467,21 @@ function render(){
   else if(S.view==='list')app.innerHTML=viewList();
   else app.innerHTML=viewHome();
   bind();
+  preloadVisibleAudio(app);
+}
+/* 预加载当前页可见的发音，确保点播时音频已在缓存、开局无延迟 */
+function preloadVisibleAudio(app){
+  if(!window.VOCAB_DATA)return;
+  var btn=app.querySelector('[data-speak]');
+  if(!btn)return;
+  var idx=audioIndex(btn.getAttribute('data-speak'));
+  if(!idx)return;
+  var src='audio/'+String(idx).padStart(4,'0')+'.mp3';
+  try{
+    var l=document.createElement('link');
+    l.rel='preload';l.as='audio';l.href=src;
+    document.head.appendChild(l);
+  }catch(e){}
 }
 function go(view,list,mode){
   S.view=view;
@@ -784,6 +829,7 @@ function rvGrade(g){
 function bind(){
   var app=document.getElementById('app');
   app.onclick=function(e){
+    warmAudio();
     var t=e.target,el;
     if(SWIPED){SWIPED=false;return}
     el=t.closest('[data-list]');
