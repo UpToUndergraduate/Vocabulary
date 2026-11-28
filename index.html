@@ -90,9 +90,8 @@ button{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 .word.s4{font-size:26px;letter-spacing:0;line-height:1.3}
 .word .sl{color:var(--line2);font-weight:300;margin:0 6px;font-size:.85em}
 .ipa{margin-top:9px;font-family:var(--mono);font-size:13.5px;color:var(--muted);letter-spacing:.3px;min-height:18px}
-.ipa .seg{white-space:nowrap}
-.ipa .seg+.seg{margin-left:9px}
-.ipa .seg i{font-style:normal;opacity:.5}
+.ipa::before,.ipa::after{content:"/";opacity:.5}
+.ipa.empty::before,.ipa.empty::after{content:""}
 .speak{margin-top:14px;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);
   background:var(--bg);color:var(--muted);border-radius:20px;padding:6px 12px;font-size:11.5px;cursor:pointer}
 .speak:hover{color:var(--accent);border-color:var(--accent)}
@@ -397,12 +396,8 @@ function shortDef(defs){var f=defs.split('|')[0]||'';var m=f.match(/^([a-z]+\.)\
 function ipaOf(w){return w[4]||''}
 /* 音标可能含多个词（顿号分隔），拆成数组；如 'ei、ən' -> ['ei','ən'] */
 function ipaSegs(w){var s=ipaOf(w);return s?s.split('、').map(function(x){return x.trim()}).filter(Boolean):[]}
-/* HTML 片段：每个音标自带斜杠，集中一行显示 */
-function ipaHTML(w){
-  return ipaSegs(w).map(function(p){return '<span class="seg"><i>/</i>'+esc(p)+'<i>/</i></span>'}).join('');
-}
-/* 纯文本：/ei/ /ən/ */
-function ipaText(w){return ipaSegs(w).map(function(p){return '/'+p+'/'}).join(' ')}
+/* 音标文本：多词用 '/  /' 并排，首尾斜杠由 .ipa 伪元素补；单词仍是原样式 */
+function ipaText(w){return ipaSegs(w).join('/  /')}
 var ICON={
   back:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>',
   home:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5L12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>',
@@ -595,13 +590,13 @@ function askHTML(w){
   var ipa=ipaText(w);
   return '<div class="ask">'+
     '<div class="word'+fitClass(w[0])+'">'+esc(w[0])+'</div>'+
-    '<div class="ask-sub">'+esc(ipa)+
+    '<div class="ask-sub">'+(ipa?'/'+esc(ipa)+'/':'')+
       '<button class="speak mini" data-speak="'+esc(w[0])+'" aria-label="发音">'+ICON.speak+'</button>'+
     '</div></div>';
 }
 function wordBlock(w,revealed){
   return wordHTML(w[0])+
-    '<div class="ipa'+(ipaSegs(w).length?'':' empty')+'">'+ipaHTML(w)+'</div>'+
+    '<div class="ipa'+(ipaOf(w)?'':' empty')+'">'+esc(ipaText(w))+'</div>'+
     '<button class="speak" data-speak="'+esc(w[0])+'">'+ICON.speak+' 发音</button>'+
     '<div class="defs">'+(revealed?defRows(w[2]):'<div class="waiting">先回想，再显示释义</div>')+'</div>';
 }
@@ -753,7 +748,7 @@ function tableHTML(l){
     var r=peek(w[0]);
     var mk=w[1]==='**'?'<span class="tag ext">拓展</span>':w[1]==='*'?'<span class="tag">基础</span>':'<span style="color:var(--faint)">—</span>';
     return '<tr><td class="n">'+(k+1)+'</td>'+
-      '<td class="w">'+esc(w[0])+(ipaSegs(w).length?'<em>'+esc(ipaText(w))+'</em>':'')+'</td>'+
+      '<td class="w">'+esc(w[0])+(ipaOf(w)?'<em>/'+esc(ipaText(w))+'/</em>':'')+'</td>'+
       '<td class="lvl">'+mk+'</td>'+
       '<td class="lvl">'+(r&&r.n?r.b+'/8':'—')+'</td>'+
       '<td class="d">'+defsInline(w[2])+'</td></tr>';
