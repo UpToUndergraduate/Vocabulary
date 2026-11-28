@@ -5,7 +5,7 @@
 
 | 词 | 标记 | 释义 | List | 音标 |
 | --- | --- | --- | --- | --- |
-| a/an |  | art. 一个（不定冠词） | L47 | ei |
+| a/an |  | art. 一个（不定冠词） | L47 | ə、ən |
 | abandon | ** | v. 抛弃；舍弃 | L41 | əˈbændən |
 | able |  | adj. 能够 | L49 | ˈeibl |
 | abnormal | ** | adj. 反常的；变态的 | L21 | æbˈnɒːməl |
@@ -38,7 +38,7 @@
 | across |  | prep. 横过；穿过 | L22 | əˈkrɒs |
 | act |  | n. 法令；条例\|v. 表演；扮演 | L12 | ækt |
 | active |  | adj. 积极的；主动的 | L29 | ˈæktiv |
-| actor/actress |  | n. 男演员 | L24 | ˈæktə |
+| actor/actress |  | n. 男演员 | L24 | ˈæktə、ˈæktris |
 | actually |  | adv. 事实上；竟然 | L40 | ˈæktʃuəli |
 | AD | * | n. 广告 | L33 | æd |
 | adapt |  | v. 使适应；适合 | L07 | əˈdæpt |
@@ -56,7 +56,7 @@
 | advantage |  | n. 优点；好处 | L17 | ədˈvɑːntidʒ |
 | adventure |  | n. 冒险；奇遇 | L22 | ədˈventʃə |
 | advertise | * | v. 为……做广告 | L38 | ˈædvətaiz |
-| advertisement/ad |  | n. 广告 | L45 | .ædvəˈtaizmənt |
+| advertisement/ad |  | n. 广告 | L45 | .ædvəˈtaizmənt、æd |
 | advice |  | n. 忠告；劝告 | L14 | ədˈvais |
 | advise |  | v. 忠告；劝告 | L36 | ədˈvaiz |
 | advocate | * | v. 拥护；支持 | L43 | ˈædvəkeit |
@@ -76,7 +76,7 @@
 | agree |  | v. 同意；应允 | L24 | əˈgriː |
 | agriculture |  | n. 农业；农学 | L39 | ˈægrikʌltʃə |
 | ahead |  | adv. 在前；向前 | L02 | əˈhed |
-| AI/artificial intelligence | * | n. 人工智能 | L08 | ai |
+| AI/artificial intelligence | * | n. 人工智能 | L08 | ai、ˌɑːtiˈfiʃl ɪnˈtelidʒəns |
 | aid |  | n. 援助；救护 | L48 | eid |
 | aim |  | n. 目的；目标\|v. 计划；打算 | L26 | eim |
 | air |  | n. 空气；大气 | L04 | єə |
@@ -129,7 +129,7 @@
 | antique | ** | n. 古董 | L05 | ænˈtiːk |
 | anxious | ** | adj. 忧虑的；焦急的 | L36 | ˈæŋʃəs |
 | any |  | adj. 任何的\|pron. 任何一个 | L18 | ˈeni |
-| anybody/anyone |  | pron. 任何人；无论谁 | L03 | ˈenibɒdi |
+| anybody/anyone |  | pron. 任何人；无论谁 | L03 | ˈenibɒdi、ˈeniwʌn |
 | anyhow | * | adv. 不管怎样 | L05 | ˈenihau |
 | anymore | * | adv. 再也不；不再 | L43 | ˈeniˈmɔː |
 | anything |  | pron. 什么事；任何事 | L11 | ˈeniθiŋ |
@@ -183,7 +183,7 @@
 | astronomer | * | n. 天文学家 | L33 | əˈstrɒnəmə |
 | at |  | prep. 在（某地／某时）；向 | L21 | æt |
 | athlete |  | n. 运动员 | L42 | ˈæθliːt |
-| ATM/Automatic Teller Machine |  | n. 自动取款机 | L22 |  |
+| ATM/Automatic Teller Machine |  | n. 自动取款机 | L22 | ˌei tiː ˈem、ˌɔːtəˈmætik ˈtelə məˈʃiːn |
 | atmosphere | * | n. 大气；气氛 | L45 | ˈætməsfiə |
 | attach |  | v. 重视 | L33 | əˈtætʃ |
 | attack |  | v. 攻击；袭击 | L05 | əˈtæk |
@@ -197,10 +197,10 @@
 | aunt |  | n. 伯母；舅母 | L05 | ɑːnt |
 | author |  | n. 作者；作家 | L39 | ˈɒːθə |
 | authority |  | n. 权力；权威 | L31 | ɒːˈθɒriti |
-| auto/automobile | * | n. 汽车 | L41 | ˈɒːtəu |
+| auto/automobile | * | n. 汽车 | L41 | ˈɒːtəu、ˈɒːtəməbiːl |
 | automatic |  | adj. 自动的；机械的 | L11 | .ɒːtəˈmætik |
 | autonomous | ** | adj. 自治的；自主的 | L12 | ɒːˈtɒnəməs |
-| autumn/fall |  | n. 秋天；秋季 | L05 | ˈɒːtəm |
+| autumn/fall |  | n. 秋天；秋季 | L05 | ˈɒːtəm、fɒːl |
 | available |  | adj. 可获得的；有空的 | L12 | əˈveiləbl |
 | avenue | ** | n. 大道 | L08 | ˈævənjuː |
 | average |  | adj. 平均；普通的\|n. 平均数 | L22 | ˈævəridʒ |
@@ -252,7 +252,7 @@
 | battle |  | n. 战斗；战役 | L40 | ˈbætl |
 | bay | * | n. 湾；海湾 | L11 | bei |
 | BC | * | abbr. 公元前 | L19 |  |
-| be (am, is, are) | * | v. 是；存在 | L18 |  |
+| be (am, is, are) | * | v. 是；存在 | L18 | biː、æm、iz、ɑː |
 | beach |  | n. 海滨；海滩 | L48 | biːtʃ |
 | bean |  | n. 豆 | L17 | biːn |
 | bear |  | n. 熊\|v. 忍受；承担 | L28 | bєə |
@@ -289,7 +289,7 @@
 | between |  | prep. 在之间 | L18 | biˈtwiːn |
 | beyond |  | prep. 在…的那边 | L01 | biˈjɒnd |
 | big |  | adj. 大的 | L13 | big |
-| bike/bicycle | * | n. 自行车 | L03 | baik |
+| bike/bicycle | * | n. 自行车 | L03 | baik、ˈbaisikl |
 | bill |  | n. 账单；法案 | L14 | bil |
 | billion | * | num. 十亿 | L24 | ˈbiljən |
 | biology |  | n. 生物 | L06 | baiˈɒlədʒi |
@@ -358,7 +358,7 @@
 | breath | * | n. 气息；呼吸 | L06 | breθ |
 | breathe |  | v. 呼吸 | L09 | briːð |
 | brick | * | n. 砖；砖块 | L36 | brik |
-| bride/bridegroom | * | n. 新娘 | L28 | braid |
+| bride/bridegroom | * | n. 新娘 | L28 | braid、ˈbraidɡruːm |
 | bridge |  | n. 桥 | L20 | bridʒ |
 | brief |  | adj. 简洁的 | L45 | briːf |
 | bright |  | adj. 明亮的；聪明的 | L46 | brait |
@@ -380,7 +380,7 @@
 | bury | * | v. 埋；葬 | L36 | ˈberi |
 | bus |  | n. 公共汽车 | L23 | bʌs |
 | business |  | n. 工作；职业 | L41 | ˈbiznis |
-| businessman/businesswoman | * | n. 商人 | L48 | ˈbiznismæn |
+| businessman/businesswoman | * | n. 商人 | L48 | ˈbiznismæn、ˈbizniwumən |
 | busy |  | adj. 忙的 | L25 | ˈbizi |
 | but |  | conj. 但是；然而\|prep. 除了 | L05 | bʌt |
 | butcher | ** | n. 肉店；屠夫\|v. 屠宰；残杀 | L36 | ˈbutʃə |
@@ -459,7 +459,7 @@
 | certificate | * | n. 证明；证明书 | L32 | səˈtifikeit |
 | chain |  | n. 链；链条 | L16 | tʃein |
 | chair |  | n. 椅子 | L17 | tʃєə |
-| chairman/chairwoman/chairperson | * | n. 主席；会长 | L42 | ˈtʃєəmən |
+| chairman/chairwoman/chairperson | * | n. 主席；会长 | L42 | ˈtʃɛəmən、ˈtʃɛəwumən、ˈtʃɛəpəːsn |
 | chalk |  | n. 粉笔 | L26 | tʃɒːk |
 | challenge |  | n. 挑战 | L33 | ˈtʃælindʒ |
 | champion |  | n. 冠军；优胜者 | L23 | ˈtʃæmpiən |
@@ -817,8 +817,8 @@
 | diverse | * | adj. 不同的；多种多样 | L25 | daiˈvəːs |
 | divide |  | v. 分；划分 | L01 | diˈvaid |
 | dizzy | ** | adj. 头眩目晕的 | L08 | ˈdizi |
-| do/does |  | v. 做；干 | L18 | duː |
-| doctor/Dr. |  | n. 医生；大夫 | L17 | ˈdɒktə |
+| do/does |  | v. 做；干 | L18 | duː、dʌz |
+| doctor/Dr. |  | n. 医生；大夫 | L17 | ˈdɒktə、ˈdɒktə |
 | document |  | n. 文件；文献 | L43 | ˈdɒkjumənt |
 | dog |  | n. 狗 | L01 | dɒg |
 | doll |  | n. 玩偶 | L14 | dɒl |
@@ -829,7 +829,7 @@
 | dominate | ** | v. 支配；占优势 | L41 | ˈdɒmineit |
 | donate |  | v. 捐赠 | L23 | ˈdəuneit |
 | door |  | n. 门 | L49 | dɒː |
-| dorm/dormitory | * | n. 学生宿舍 | L16 | dɒːm |
+| dorm/dormitory | * | n. 学生宿舍 | L16 | dɒːm、ˈdɒːmitri |
 | double |  | adj. 两倍；双的\|n. 两个；双 | L20 | ˈdʌbl |
 | doubt |  | n. 怀疑；疑惑 | L22 | daut |
 | down |  | adv. 向下\|prep. 沿着…向下 | L25 | daun |
@@ -960,12 +960,12 @@
 | ever |  | adv. 曾经 | L06 | ˈevə |
 | every |  | adj. 每一；每个的 | L31 | ˈevri |
 | everyday |  | adj. 每日的；日常的 | L29 | ˈevriˈdei |
-| everyone/everybody |  | pron. 每人；人人 | L30 | ˈevriwʌn |
+| everyone/everybody |  | pron. 每人；人人 | L30 | ˈevriwʌn、ˈevribɒdi |
 | everything |  | pron. 每件事；事事 | L14 | ˈevriθiŋ |
 | everywhere |  | adv. 到处 | L07 | ˈevrihwєə |
 | evidence | * | n. 证据；证明 | L07 | ˈevidəns |
 | exact |  | adj. 精确的；确切的 | L18 | igˈzækt |
-| exam/examination | * | n. 考试；测试 | L41 | igˈzæm |
+| exam/examination | * | n. 考试；测试 | L41 | igˈzæm、igˌzæmiˈneiʃn |
 | examine |  | v. 检查；诊察 | L05 | igˈzæmin |
 | example |  | n. 例子；榜样 | L28 | igˈzæmpl |
 | excellent |  | adj. 极好的；优秀的 | L29 | ˈekslənt |
@@ -1120,7 +1120,7 @@
 | frequent |  | adj. 经常的；频繁的 | L24 | ˈfriːkwənt |
 | fresh |  | adj. 新鲜的 | L03 | freʃ |
 | friction | ** | n. 摩擦 | L10 | ˈfrikʃən |
-| fridge/refrigerator | * | n. 冰箱 | L16 | fridʒ |
+| fridge/refrigerator | * | n. 冰箱 | L16 | fridʒ、riˈfridʒəreitə |
 | friend |  | n. 朋友 | L19 | frend |
 | frighten | * | v. 使惊恐；吓唬 | L15 | ˈfraitn |
 | frog | * | n. 青蛙 | L43 | frɒg |
@@ -1181,7 +1181,7 @@
 | go |  | v. 去；走；变得 | L45 | gou |
 | goal |  | n. 球门；目标 | L17 | gəul |
 | goat | * | n. 山羊 | L28 | gəut |
-| god |  | n. 神；上帝 | L49 | ^ɔd |
+| god |  | n. 神；上帝 | L49 | ɡɔd |
 | gold |  | n. 黄金\|adj. 金的；黄金的 | L47 | gəuld |
 | golf |  | n. 高尔夫球 | L34 | gɒlf |
 | good |  | adj. 好的；擅长的 | L33 | gud |
@@ -1196,9 +1196,9 @@
 | grammar |  | n. 语法 | L19 | ˈgræmə |
 | gramme | * | n. 克 | L23 | græm |
 | grand | ** | adj. 宏伟的 | L28 | grænd |
-| grandchild/grandson/granddaughter |  | n. 孙或孙女；孙辈 | L15 | ˈ^rændtʃaild |
-| grandparent/grandfather/granddad/grandpa/grandmother/grandma |  | n. 奶奶；外婆 | L16 | ˈgrændperənt |
-| granny |  | n. 老奶奶；祖母 | L50 | ˈ^ræni |
+| grandchild/grandson/granddaughter |  | n. 孙或孙女；孙辈 | L15 | ˈɡrændtʃaild、ˈɡrændsʌn、ˈɡrænddɔːtə |
+| grandparent/grandfather/granddad/grandpa/grandmother/grandma |  | n. 奶奶；外婆 | L16 | ˈɡrændpeərənt、ˈɡrændfɑːðə、ˈɡrænddæd、ˈɡrændpɑː、ˈɡrændmʌðə、ˈɡrændmei |
+| granny |  | n. 老奶奶；祖母 | L50 | ˈɡræni |
 | grant | * | n. 授予；授予物\|v. 允许；承认 | L08 | grænt |
 | grape |  | n. 葡萄 | L39 | greip |
 | grasp | * | v. 抓住；紧握 | L41 | græsp |
@@ -1227,7 +1227,7 @@
 | guitar |  | n. 吉他；六弦琴 | L23 | giˈtɑː |
 | gun |  | n. 枪；炮 | L28 | gʌn |
 | guy |  | n. 家伙；支索\|v. 用支索撑住；取笑 | L14 | gai |
-| gym/gymnasium |  | n. 体操；体育馆 | L35 | dʒim |
+| gym/gymnasium |  | n. 体操；体育馆 | L35 | dʒim、dʒimˈneiziəm |
 | gymnastics |  | n. 体操 | L36 | dʒimˈnæstiks |
 | habit |  | n. 习惯；习性 | L47 | ˈhæbit |
 | habitat | ** | n. 栖息地；居留地 | L29 | ˈhæbitæt |
@@ -1259,7 +1259,7 @@
 | hat |  | n. 帽子；礼帽 | L24 | hæt |
 | hatch | ** | v. 孵蛋 | L43 | hætʃ |
 | hate |  | v. 恨；讨厌 | L44 | heit |
-| have/has | * | v. 有；吃 | L39 | hæv |
+| have/has | * | v. 有；吃 | L39 | hæv、hæz |
 | he |  | pron. 他 | L17 | hiː |
 | head |  | n. 头；头脑\|adj. 头部的；主要的 | L33 | hed |
 | headache |  | n. 头疼 | L25 | ˈhedeik |
@@ -1317,7 +1317,7 @@
 | horrible |  | adj. 令人恐惧；恐怖的 | L17 | ˈhɒrəbl |
 | horse |  | n. 马 | L25 | hɒːs |
 | hospital |  | n. 医院 | L40 | ˈhɒspitəl |
-| host/hostess |  | n. 主人\|v. 做主人招待 | L45 | həust |
+| host/hostess |  | n. 主人\|v. 做主人招待 | L45 | həust、ˈhəustis |
 | hot |  | adj. 热的 | L22 | hɒt |
 | hotdog |  | v. 卖弄 | L39 |  |
 | hotel |  | n. 旅馆；饭店 | L27 | həuˈtel |
@@ -1431,12 +1431,12 @@
 | invite |  | v. 邀请；招待 | L35 | inˈvait |
 | invoice | ** | n. 发票；发货单\|v. 开发票；记清单 | L31 | ˈinvɒis |
 | involve | * | v. 包括；使陷于 | L09 | inˈvɒlv |
-| IOT/Internet of things | * | n. 物联网 | L11 |  |
+| IOT/Internet of things | * | n. 物联网 | L11 | ˌai əu tiː、ˈintənet əv θiŋz |
 | iron |  | n. 铁；熨斗\|v. 熨烫 | L22 | ˈaiən |
 | island |  | n. 岛 | L20 | ˈailənd |
 | issue |  | n. 发行；问题\|v. 流出；传下 | L45 | ˈisju |
 | it |  | pron. 它 | L15 | it |
-| IT/information technology |  | pron. 它 | L22 | it |
+| IT/information technology |  | pron. 它 | L22 | it、ˌinfəˈmeiʃn tekˈnɒlədʒi |
 | item |  | n. 项目；条款 | L14 | ˈaitəm |
 | its |  | pron. 它的 | L42 | its |
 | itself |  | pron. 它自己 | L42 | itˈself |
@@ -1473,7 +1473,7 @@
 | kick |  | v. 踢 | L37 | kik |
 | kid |  | n. 小孩 | L26 | kid |
 | kill |  | v. 杀死；弄死 | L34 | kil |
-| kilo/kilogramme |  | n. 千克；千米 | L37 | ˈkiləu |
+| kilo/kilogramme |  | n. 千克；千米 | L37 | ˈkiləu、ˈkiləɡræm |
 | kilometre | * | n. 千米 | L18 | ˈkiləjmiːtə(r) |
 | kind |  | n. 种；类\|adj. 善良；友好的 | L49 | kaind |
 | kindergarten |  | n. 幼儿园 | L10 | ˈkində.gɑːtn |
@@ -1487,7 +1487,7 @@
 | knife |  | n. 小刀；匕首 | L07 | naif |
 | knock |  | n. 敲；打 | L26 | nɒk |
 | know |  | v. 知道；认识 | L01 | nəu |
-| lab/laboratory | * | n. 实验室；研究室 | L41 | læb |
+| lab/laboratory | * | n. 实验室；研究室 | L41 | læb、ləˈbɒrətri |
 | label |  | n. 标签；称号\|v. 贴标签于；标注 | L16 | ˈleibl |
 | labour | * | n. 劳动 | L09 | ˈleibə |
 | lack |  | n. 缺乏；缺少 | L15 | læk |
@@ -1622,7 +1622,7 @@
 | match |  | v. 使相配；使成对\|n. 比赛；竞赛 | L24 | mætʃ |
 | mate |  | n. 配偶；对手\|v. 使配对；使一致 | L11 | meit |
 | material |  | n. 材料；原料 | L13 | məˈtiəriəl |
-| maths/mathematics | * | n. 数学 | L14 | mæθs |
+| maths/mathematics | * | n. 数学 | L14 | mæθs、ˌmæθəˈmætiks |
 | matter |  | n. 要紧事；要紧\|v. 要紧 | L30 | ˈmætə |
 | mature | ** | adj. 成熟的 | L34 | məˈtjuə |
 | maximum | ** | adj. 最大量；最大限度 | L43 | ˈmæksimən |
@@ -1707,7 +1707,7 @@
 | mosque |  | n. 清真寺 | L39 | mɒsk |
 | mosquito | ** | n. 蚊子 | L19 | məˈskiːtəu |
 | most |  | adj. 最多\|n. 大部分；大多数 | L29 | məust |
-| mother/mum |  | n. 母亲 | L17 | ˈmʌðə |
+| mother/mum |  | n. 母亲 | L17 | ˈmʌðə、mʌm |
 | motion | ** | n. 移动；手势\|v. 打手势 | L05 | ˈməuʃən |
 | motivate | ** | v. 给与动机；刺激 | L32 | ˈməutiveit |
 | motive | ** | n. 动机；目的\|adj. 运动的 | L50 | ˈməutiv |
@@ -1721,7 +1721,7 @@
 | mouth |  | n. 嘴；口 | L08 | mauθ |
 | move |  | v. 移动；搬动 | L35 | muːv |
 | movie |  | n. 电影 | L47 | ˈmuːvi |
-| Mr/Mrs/Ms |  | n. 先生／夫人／女士（称呼） | L18 | ˈmistə(r) |
+| Mr/Mrs/Ms |  | n. 先生／夫人／女士（称呼） | L18 | ˈmistə(r)、ˈmisiz、miz |
 | much |  | adv. 很；非常\|adj. 很多的 | L11 | mʌtʃ |
 | mud | * | n. 泥；泥浆 | L11 | mʌd |
 | mug |  | n. 有柄大杯；脸\|v. 攻击；苦读 | L32 | mʌg |
@@ -1851,7 +1851,7 @@
 | ordinary |  | adj. 普通的；平常的 | L16 | ˈɒːdinəri |
 | organ | * | n. 器官 | L41 | ˈɒːgən |
 | organic | * | adj. 器官的；有机的 | L02 | ɒːˈgænik |
-| organisation | * | n. 组织；机构 | L37 | ˌɔː^ənaizeiʃən;-niˈz- |
+| organisation | * | n. 组织；机构 | L37 | ˌɔːɡənaizeiʃən;-niˈz- |
 | organise |  | v. 组织 | L48 | ˈɒːgənaiz |
 | origin | ** | n. 起源；由来 | L35 | ˈɒridʒin |
 | other |  | adj. 其他的\|pron. 其他人（物） | L04 | ˈʌðə |
@@ -1916,8 +1916,8 @@
 | pattern |  | n. 式样 | L06 | ˈpætən |
 | pause |  | n. 中止；暂停 | L13 | pɒːz |
 | pay |  | v. 付钱\|n. 工资 | L21 | pei |
-| PC/personal computer | * | n. 个人电脑 | L17 |  |
-| PE/physical education | * | n. 体育（课） | L16 | pei |
+| PC/personal computer | * | n. 个人电脑 | L17 | ˌpiː siː、ˈpəːsnəl kəmˈpjuːtə |
+| PE/physical education | * | n. 体育（课） | L16 | pei、ˈfizikl ˌedjuˈkeiʃn |
 | pea |  | n. 豌豆 | L15 | piː |
 | peace |  | n. 和平 | L19 | piːs |
 | peak | * | n. 山峰；巅\|adj. 最高的；最大值的 | L27 | piːk |
@@ -1947,7 +1947,7 @@
 | phase | ** | n. 时期；局面\|v. 使调整相位；使定相 | L01 | feiz |
 | phenomenon | * | n. 现象 | L06 | fiˈnɒminən |
 | philosophy | ** | n. 哲学；人生观 | L09 | fiˈlɒsəfi |
-| phone/telephone |  | v. 打电话\|n. 电话；电话机 | L29 | fəun |
+| phone/telephone |  | v. 打电话\|n. 电话；电话机 | L29 | fəun、ˈtelifəun |
 | photo | * | n. 照片 | L08 | ˈfəutəu |
 | phrase | * | n. 短语 | L50 | freiz |
 | physical |  | adj. 身体的；物理的 | L49 | ˈfizikl |
@@ -1972,7 +1972,7 @@
 | place |  | n. 地方；处所\|v. 放置；安置 | L24 | pleis |
 | plain | * | adj. 家常的；普通的 | L45 | plein |
 | plan |  | n. 计划；打算 | L19 | plæn |
-| plane/aeroplane |  | n. 飞机 | L46 | plein |
+| plane/aeroplane |  | n. 飞机 | L46 | plein、ˈeərəplein |
 | planet |  | n. 行星 | L37 | ˈplænit |
 | plant |  | v. 种植；播种\|n. 植物 | L15 | plænt.plɑːnt |
 | plastic |  | adj. 塑料的 | L18 | ˈplæstik |
@@ -1996,7 +1996,7 @@
 | polar | ** | adj. 两极的；极地的 | L02 | ˈpəulə |
 | pole |  | n. 杆；柱；极点 | L04 | pəul |
 | police |  | n. 警察 | L38 | pəˈliːs |
-| policeman/policewoman | * | n. 警察 | L32 | pəˈliːsmən |
+| policeman/policewoman | * | n. 警察 | L32 | pəˈliːsmən、pəˈliːswumən |
 | policy |  | n. 政策；方针 | L38 | ˈpɒlisi |
 | polish | ** | v. 擦亮；抛光\|n. 上光剂 | L08 | ˈpɒliʃ |
 | polite |  | adj. 有礼貌的；有教养的 | L06 | pəˈlait |
@@ -2156,7 +2156,7 @@
 | reception | * | n. 接待 | L34 | riˈsepʃən |
 | recipe | ** | n. 烹饪法；食谱 | L08 | ˈresipi |
 | recite | ** | v. 背诵 | L22 | riˈsait |
-| recognise | * | v. 认出 | L08 | ˈrekə^naiz |
+| recognise | * | v. 认出 | L08 | ˈrekəɡnaiz |
 | recommend |  | v. 推荐 | L42 | .rekəˈmend |
 | record |  | n. 记录；唱片\|v. 录制；记录 | L50 | riˈkɒːd |
 | recover |  | v. 痊愈；恢复 | L15 | riˈkʌvə |
@@ -2270,7 +2270,7 @@
 | rubber |  | n. 橡胶 | L02 | ˈrʌbə |
 | rubbish |  | n. 垃圾；废物 | L49 | ˈrʌbiʃ |
 | rude | * | adj. 无理的；粗鲁的 | L02 | ruːd |
-| rugby |  | n. 橄榄球 | L40 | ˈrʌ^bi |
+| rugby |  | n. 橄榄球 | L40 | ˈrʌɡbi |
 | ruin | * | v. 毁坏；毁灭\|n. 废墟；遗迹 | L03 | ruin |
 | rule |  | n. 规则；规定\|v. 统治；支配 | L46 | ruːl |
 | run |  | v. 跑；奔跑 | L41 | rʌn |
@@ -2284,7 +2284,7 @@
 | salad |  | n. 色拉 | L07 | ˈsæləd |
 | salary |  | n. 薪金；薪水 | L37 | ˈsæləri |
 | sale |  | n. 卖；出售 | L39 | seil |
-| salesman/saleswoman/salesperson | * | n. 男售货员 | L49 | ˈseilzmən |
+| salesman/saleswoman/salesperson | * | n. 男售货员 | L49 | ˈseilzmən、ˈseilzwumən、ˈseilzpəːsn |
 | salt |  | n. 盐 | L47 | sɒːlt |
 | same |  | n. 同样的事\|adj. 同样的；同一 | L08 | seim |
 | sample |  | n. 样品；范例\|v. 抽样；尝试 | L31 | ˈsæmpl |
@@ -2307,7 +2307,7 @@
 | schedule |  | n. 工作计划；日程安排\|v. 安排时间；预定 | L44 | ˈskedʒuəl |
 | scholarship | ** | n. 奖学金 | L41 | ˈskɒləʃip |
 | school |  | n. 学校 | L48 | skuːl |
-| schoolbag |  | n. 书包 | L15 | ˈskuːlbæ^ |
+| schoolbag |  | n. 书包 | L15 | ˈskuːlbæɡ |
 | science |  | n. 科学 | L35 | ˈsaiəns |
 | scissors |  | n. 剪刀；剪子 | L08 | ˈsizəz |
 | score |  | n. 得分；分数 | L42 | skɒː |
@@ -2457,7 +2457,7 @@
 | solid |  | adj. 结实的；固体的\|n. 固体 | L30 | ˈsɒlid |
 | solve |  | v. 解决；付给 | L29 | sɒlv |
 | some |  | adj. 一些\|pron. 一些 | L44 | sʌm |
-| somebody/someone |  | pron. 某人；有人 | L27 | ˈsʌmbɒdi |
+| somebody/someone |  | pron. 某人；有人 | L27 | ˈsʌmbɒdi、ˈsʌmwʌn |
 | somehow |  | adv. 不知何故 | L10 | ˈsʌmhau |
 | something |  | pron. 某事；某物 | L13 | ˈsʌmθiŋ |
 | sometimes |  | adv. 有时 | L34 | ˈsʌmtaimz |
@@ -2652,7 +2652,7 @@
 | technology |  | n. 技术 | L08 | tekˈnɒlədʒi |
 | teenager |  | n. 青少年 | L49 | ˈtiːnidʒə |
 | telescope | ** | n. 望远镜 | L47 | ˈteliskəup |
-| television/TV |  | n. 电视 | L02 | ˈteli.viʒən |
+| television/TV |  | n. 电视 | L02 | ˈteliˌviʒn、ˌtiː viː |
 | tell |  | v. 告诉；讲述 | L19 | tel |
 | temperature |  | n. 温度 | L15 | ˈtemprətʃə |
 | temple |  | n. 庙宇；寺院 | L21 | templ |
@@ -2822,7 +2822,7 @@
 | unknown | * | adj. 不知道的 | L44 | .ʌnˈnəun |
 | unless |  | conj. 如果不；除非 | L21 | .ʌnˈles |
 | unlike | * | prep. 不像 | L28 | .ʌnˈlaik |
-| until/till |  | prep. 直到…为止 | L40 | ənˈtil |
+| until/till |  | prep. 直到…为止 | L40 | ənˈtil、til |
 | unusual |  | adj. 不平常的；异常的 | L12 | .ʌnˈjuːʒuːl |
 | up |  | adv. 向上\|prep. 沿着…向上 | L19 | ʌp |
 | update |  | v. 更新 | L21 | ʌpˈdeit |

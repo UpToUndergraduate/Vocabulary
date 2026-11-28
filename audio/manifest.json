@@ -2,7 +2,7 @@
  {
   "i": 1,
   "w": "a/an",
-  "t": "a",
+  "t": "uh, an",
   "f": "0001.mp3"
  },
  {
@@ -200,7 +200,7 @@
  {
   "i": 34,
   "w": "actor/actress",
-  "t": "actor",
+  "t": "actor, actress",
   "f": "0034.mp3"
  },
  {
@@ -308,7 +308,7 @@
  {
   "i": 52,
   "w": "advertisement/ad",
-  "t": "advertisement",
+  "t": "advertisement, ad",
   "f": "0052.mp3"
  },
  {
@@ -428,7 +428,7 @@
  {
   "i": 72,
   "w": "AI/artificial intelligence",
-  "t": "AI",
+  "t": "AI, artificial intelligence",
   "f": "0072.mp3"
  },
  {
@@ -746,7 +746,7 @@
  {
   "i": 125,
   "w": "anybody/anyone",
-  "t": "anybody",
+  "t": "anybody, anyone",
   "f": "0125.mp3"
  },
  {
@@ -1070,7 +1070,7 @@
  {
   "i": 179,
   "w": "ATM/Automatic Teller Machine",
-  "t": "ATM",
+  "t": "ATM, Automatic Teller Machine",
   "f": "0179.mp3"
  },
  {
@@ -1154,7 +1154,7 @@
  {
   "i": 193,
   "w": "auto/automobile",
-  "t": "auto",
+  "t": "auto, automobile",
   "f": "0193.mp3"
  },
  {
@@ -1172,7 +1172,7 @@
  {
   "i": 196,
   "w": "autumn/fall",
-  "t": "autumn",
+  "t": "autumn, fall",
   "f": "0196.mp3"
  },
  {
@@ -1484,7 +1484,7 @@
  {
   "i": 248,
   "w": "be (am, is, are)",
-  "t": "be",
+  "t": "be, am, is, are",
   "f": "0248.mp3"
  },
  {
@@ -1706,7 +1706,7 @@
  {
   "i": 285,
   "w": "bike/bicycle",
-  "t": "bike",
+  "t": "bike, bicycle",
   "f": "0285.mp3"
  },
  {
@@ -2120,7 +2120,7 @@
  {
   "i": 354,
   "w": "bride/bridegroom",
-  "t": "bride",
+  "t": "bride, bridegroom",
   "f": "0354.mp3"
  },
  {
@@ -2252,7 +2252,7 @@
  {
   "i": 376,
   "w": "businessman/businesswoman",
-  "t": "businessman",
+  "t": "businessman, businesswoman",
   "f": "0376.mp3"
  },
  {
@@ -2726,7 +2726,7 @@
  {
   "i": 455,
   "w": "chairman/chairwoman/chairperson",
-  "t": "chairman",
+  "t": "chairman, chairwoman, chairperson",
   "f": "0455.mp3"
  },
  {
@@ -4874,13 +4874,13 @@
  {
   "i": 813,
   "w": "do/does",
-  "t": "do",
+  "t": "do, does",
   "f": "0813.mp3"
  },
  {
   "i": 814,
   "w": "doctor/Dr.",
-  "t": "doctor",
+  "t": "doctor, Dr.",
   "f": "0814.mp3"
  },
  {
@@ -4946,7 +4946,7 @@
  {
   "i": 825,
   "w": "dorm/dormitory",
-  "t": "dorm",
+  "t": "dorm, dormitory",
   "f": "0825.mp3"
  },
  {
@@ -5732,7 +5732,7 @@
  {
   "i": 956,
   "w": "everyone/everybody",
-  "t": "everyone",
+  "t": "everyone, everybody",
   "f": "0956.mp3"
  },
  {
@@ -5762,7 +5762,7 @@
  {
   "i": 961,
   "w": "exam/examination",
-  "t": "exam",
+  "t": "exam, examination",
   "f": "0961.mp3"
  },
  {
@@ -6692,7 +6692,7 @@
  {
   "i": 1116,
   "w": "fridge/refrigerator",
-  "t": "fridge",
+  "t": "fridge, refrigerator",
   "f": "1116.mp3"
  },
  {
@@ -7148,13 +7148,13 @@
  {
   "i": 1192,
   "w": "grandchild/grandson/granddaughter",
-  "t": "grandchild",
+  "t": "grandchild, grandson, granddaughter",
   "f": "1192.mp3"
  },
  {
   "i": 1193,
   "w": "grandparent/grandfather/granddad/grandpa/grandmother/grandma",
-  "t": "grandparent",
+  "t": "grandparent, grandfather, granddad, grandpa, grandmother, grandma",
   "f": "1193.mp3"
  },
  {
@@ -7334,7 +7334,7 @@
  {
   "i": 1223,
   "w": "gym/gymnasium",
-  "t": "gym",
+  "t": "gym, gymnasium",
   "f": "1223.mp3"
  },
  {
@@ -7526,7 +7526,7 @@
  {
   "i": 1255,
   "w": "have/has",
-  "t": "have",
+  "t": "have, has",
   "f": "1255.mp3"
  },
  {
@@ -7874,7 +7874,7 @@
  {
   "i": 1313,
   "w": "host/hostess",
-  "t": "host",
+  "t": "host, hostess",
   "f": "1313.mp3"
  },
  {
@@ -8558,7 +8558,7 @@
  {
   "i": 1427,
   "w": "IOT/Internet of things",
-  "t": "IOT",
+  "t": "IOT, Internet of things",
   "f": "1427.mp3"
  },
  {
@@ -8588,7 +8588,7 @@
  {
   "i": 1432,
   "w": "IT/information technology",
-  "t": "IT",
+  "t": "IT, information technology",
   "f": "1432.mp3"
  },
  {
@@ -8810,7 +8810,7 @@
  {
   "i": 1469,
   "w": "kilo/kilogramme",
-  "t": "kilo",
+  "t": "kilo, kilogramme",
   "f": "1469.mp3"
  },
  {
@@ -8894,7 +8894,7 @@
  {
   "i": 1483,
   "w": "lab/laboratory",
-  "t": "lab",
+  "t": "lab, laboratory",
   "f": "1483.mp3"
  },
  {
@@ -9704,7 +9704,7 @@
  {
   "i": 1618,
   "w": "maths/mathematics",
-  "t": "maths",
+  "t": "maths, mathematics",
   "f": "1618.mp3"
  },
  {
@@ -10214,7 +10214,7 @@
  {
   "i": 1703,
   "w": "mother/mum",
-  "t": "mother",
+  "t": "mother, mum",
   "f": "1703.mp3"
  },
  {
@@ -10298,7 +10298,7 @@
  {
   "i": 1717,
   "w": "Mr/Mrs/Ms",
-  "t": "Mr",
+  "t": "Mr, Mrs, Ms",
   "f": "1717.mp3"
  },
  {
@@ -11468,13 +11468,13 @@
  {
   "i": 1912,
   "w": "PC/personal computer",
-  "t": "PC",
+  "t": "PC, personal computer",
   "f": "1912.mp3"
  },
  {
   "i": 1913,
   "w": "PE/physical education",
-  "t": "PE",
+  "t": "PE, physical education",
   "f": "1913.mp3"
  },
  {
@@ -11654,7 +11654,7 @@
  {
   "i": 1943,
   "w": "phone/telephone",
-  "t": "phone",
+  "t": "phone, telephone",
   "f": "1943.mp3"
  },
  {
@@ -11804,7 +11804,7 @@
  {
   "i": 1968,
   "w": "plane/aeroplane",
-  "t": "plane",
+  "t": "plane, aeroplane",
   "f": "1968.mp3"
  },
  {
@@ -11948,7 +11948,7 @@
  {
   "i": 1992,
   "w": "policeman/policewoman",
-  "t": "policeman",
+  "t": "policeman, policewoman",
   "f": "1992.mp3"
  },
  {
@@ -13676,7 +13676,7 @@
  {
   "i": 2280,
   "w": "salesman/saleswoman/salesperson",
-  "t": "salesman",
+  "t": "salesman, saleswoman, salesperson",
   "f": "2280.mp3"
  },
  {
@@ -14714,7 +14714,7 @@
  {
   "i": 2453,
   "w": "somebody/someone",
-  "t": "somebody",
+  "t": "somebody, someone",
   "f": "2453.mp3"
  },
  {
@@ -15884,7 +15884,7 @@
  {
   "i": 2648,
   "w": "television/TV",
-  "t": "television",
+  "t": "television, TV",
   "f": "2648.mp3"
  },
  {
@@ -16904,7 +16904,7 @@
  {
   "i": 2818,
   "w": "until/till",
-  "t": "until",
+  "t": "until, till",
   "f": "2818.mp3"
  },
  {
